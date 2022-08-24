@@ -1,0 +1,12 @@
+Hello Professor,
+
+The repo method I liked the most was the VSCode Approach. 
+Using a similar approach: 
+
+    - Go to the folder where I inititated a git repo and open folder using VCode
+    - Once open I click on Terminal --> New Terminal
+    - From here I am able to run any git commands 
+
+Thank you,
+
+Juan Borgo
