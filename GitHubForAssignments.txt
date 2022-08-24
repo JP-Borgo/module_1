@@ -1,6 +1,7 @@
 Hello Professor,
 
 The repo method I liked the most was the VSCode Approach. 
+
 Using a similar approach: 
 
     - Go to the folder where I inititated a git repo and open folder using VCode
@@ -9,4 +10,4 @@ Using a similar approach:
 
 Thank you,
 
-Juan Borgo
+Juan Pablo Borgo
